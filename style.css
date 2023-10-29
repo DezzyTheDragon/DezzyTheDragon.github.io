@@ -1,0 +1,44 @@
+body {
+	background-image: url('assets/background.png');
+	background-repeat: no-repeat;
+}
+
+.title-container {
+	display: grid;
+}
+
+.left-item {
+	grid-column: 1;
+}
+
+.right-item {
+	grid-column: 2;
+}
+
+#pfp {
+	width: 25%;
+	border-radius: 50%;
+}
+
+#bodyCenter {
+	background-color: black;
+	margin: auto;
+	width: 75%;
+	padding-left: 15px;
+}
+
+h1 {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+h3 {
+	color: white;
+}
+
+p {
+	color: gray;
+}
