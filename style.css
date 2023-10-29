@@ -1,6 +1,7 @@
 body {
 	background-image: url('assets/background.png');
 	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 .title-container {
@@ -18,10 +19,11 @@ body {
 #pfp {
 	width: 25%;
 	border-radius: 50%;
+	margin-top: 25px;
 }
 
 #bodyCenter {
-	background-color: black;
+	background-color: rgba(0,0,0,0.9);
 	margin: auto;
 	width: 75%;
 	padding-left: 15px;
