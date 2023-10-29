@@ -42,5 +42,18 @@ h3 {
 }
 
 p {
-	color: gray;
+	color: #c4c4c4;
+}
+
+ul {
+	color: #c4c4c4;
+}
+
+iframe {
+	display: block;
+	margin: auto;
+}
+
+a:visited {
+	color: blueviolet;
 }
