@@ -16,6 +16,13 @@ body {
 	grid-column: 2;
 }
 
+.center-image{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
 #pfp {
 	width: 25%;
 	border-radius: 50%;
